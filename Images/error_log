@@ -1,0 +1,662 @@
+[09-Dec-2018 00:41:18 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[09-Dec-2018 00:41:18 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[09-Dec-2018 00:41:18 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[09-Dec-2018 00:41:18 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[09-Dec-2018 00:42:06 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[09-Dec-2018 00:42:06 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[09-Dec-2018 00:42:06 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[09-Dec-2018 00:42:06 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[11-Dec-2018 13:04:05 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[11-Dec-2018 13:04:05 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[11-Dec-2018 13:04:05 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[11-Dec-2018 13:04:05 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[13-Dec-2018 08:34:05 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 5
+[13-Dec-2018 08:34:05 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 10
+[13-Dec-2018 08:35:48 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 5
+[13-Dec-2018 08:35:48 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 10
+[13-Dec-2018 08:37:11 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 5
+[13-Dec-2018 08:37:11 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 10
+[13-Dec-2018 08:42:09 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 08:42:15 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 08:42:43 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 08:44:48 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 08:44:53 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 08:53:09 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 08:53:20 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 08:53:20 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 11
+[13-Dec-2018 08:54:09 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 08:54:09 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 11
+[13-Dec-2018 08:54:13 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 08:54:16 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 08:58:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '$uploadOk' (T_VARIABLE) in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 6
+[13-Dec-2018 08:58:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '$uploadOk' (T_VARIABLE) in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 6
+[13-Dec-2018 09:01:33 Etc/GMT] PHP Warning:  move_uploaded_file(public_html/OrlandoAdmin/uploads/la_belle_2.jpg): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:01:33 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpadbWDX' to 'public_html/OrlandoAdmin/uploads/la_belle_2.jpg' in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:06:47 Etc/GMT] PHP Warning:  move_uploaded_file(https://www.dharmani.com/OrlandoAdmin/uploads/la_belle_2.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:06:47 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJU1nkX' to 'https://www.dharmani.com/OrlandoAdmin/uploads/la_belle_2.jpg' in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:06:56 Etc/GMT] PHP Warning:  move_uploaded_file(https://www.dharmani.com/OrlandoAdmin/uploads/la_belle_3.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:06:56 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpCD8Vnr' to 'https://www.dharmani.com/OrlandoAdmin/uploads/la_belle_3.jpg' in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:07:11 Etc/GMT] PHP Warning:  move_uploaded_file(https://www.dharmani.com/OrlandoAdmin/uploads/la belle 4.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:07:11 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpl0lcf4' to 'https://www.dharmani.com/OrlandoAdmin/uploads/la belle 4.jpg' in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:07:41 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 09:07:41 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:07:46 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 09:07:46 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:07:59 Etc/GMT] PHP Warning:  move_uploaded_file(https://www.dharmani.com/OrlandoAdmin/uploads/la_belle_3.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:07:59 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8Dl3T7' to 'https://www.dharmani.com/OrlandoAdmin/uploads/la_belle_3.jpg' in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:11:59 Etc/GMT] PHP Warning:  move_uploaded_file(https://www.dharmani.com/OrlandoAdmin/uploads/../uploads/la_belle_3.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:11:59 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkXmbdq' to 'https://www.dharmani.com/OrlandoAdmin/uploads/../uploads/la_belle_3.jpg' in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:12:09 Etc/GMT] PHP Warning:  move_uploaded_file(https://www.dharmani.com/OrlandoAdmin/uploads/../uploads/la_belle_3.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:12:09 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHatkf7' to 'https://www.dharmani.com/OrlandoAdmin/uploads/../uploads/la_belle_3.jpg' in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:12:45 Etc/GMT] PHP Warning:  move_uploaded_file(https://www.dharmani.com/OrlandoAdmin/uploads/../uploads/la belle 2 - Copy.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 09:12:45 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKLtYqd' to 'https://www.dharmani.com/OrlandoAdmin/uploads/../uploads/la belle 2 - Copy.jpg' in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 10:03:15 Etc/GMT] PHP Warning:  move_uploaded_file(https://www.dharmani.com/OrlandoAdmin/uploads/https://www.dharmani.com/OrlandoAdmin/uploads/la belle 2 - Copy.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 10:03:15 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHjeZwv' to 'https://www.dharmani.com/OrlandoAdmin/uploads/https://www.dharmani.com/OrlandoAdmin/uploads/la belle 2 - Copy.jpg' in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 10:03:27 Etc/GMT] PHP Warning:  move_uploaded_file(https://www.dharmani.com/OrlandoAdmin/uploads/https://www.dharmani.com/OrlandoAdmin/uploads/la_belle_3.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 10:03:27 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoKJgt3' to 'https://www.dharmani.com/OrlandoAdmin/uploads/https://www.dharmani.com/OrlandoAdmin/uploads/la_belle_3.jpg' in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 10:03:36 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:03:36 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 10:03:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:03:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 10:04:16 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:04:16 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 10:04:55 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:04:55 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 10:05:07 Etc/GMT] PHP Warning:  move_uploaded_file(https://www.dharmani.com/OrlandoAdmin/uploads/https://www.dharmani.com/OrlandoAdmin/uploads/la_belle_3.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 10:05:07 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJR1tfk' to 'https://www.dharmani.com/OrlandoAdmin/uploads/https://www.dharmani.com/OrlandoAdmin/uploads/la_belle_3.jpg' in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 32
+[13-Dec-2018 10:10:36 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:10:36 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:10:44 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:10:44 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:10:55 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:10:55 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:11:02 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:11:02 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:11:46 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:11:46 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:11:51 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:11:51 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:12:15 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:12:15 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:12:33 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:12:33 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:12:50 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:12:50 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:12:53 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:12:53 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:13:14 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:13:14 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:13:14 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:13:21 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:13:21 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:13:21 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:13:26 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:13:26 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:13:26 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:13:47 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:13:47 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:13:50 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:13:50 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:14:36 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:14:36 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:14:41 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:14:41 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:15:19 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:15:19 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:15:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:15:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:15:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:16:10 Etc/GMT] PHP Notice:  Undefined variable: target_file in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 19
+[13-Dec-2018 10:16:10 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:16:10 Etc/GMT] PHP Notice:  Undefined variable: uploadOk in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 31
+[13-Dec-2018 10:16:15 Etc/GMT] PHP Notice:  Undefined variable: target_file in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 19
+[13-Dec-2018 10:16:15 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:16:15 Etc/GMT] PHP Notice:  Undefined variable: uploadOk in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 31
+[13-Dec-2018 10:17:27 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:17:27 Etc/GMT] PHP Notice:  Undefined variable: target_file in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:18:25 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:18:25 Etc/GMT] PHP Notice:  Undefined variable: target_file in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:18:35 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:18:35 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:18:35 Etc/GMT] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:21:11 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:21:11 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:21:11 Etc/GMT] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:21:37 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:21:37 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:21:37 Etc/GMT] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:21:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:21:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:21:48 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:21:48 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:21:48 Etc/GMT] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:23:32 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 5
+[13-Dec-2018 10:23:32 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 10
+[13-Dec-2018 10:23:34 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 5
+[13-Dec-2018 10:23:34 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 25
+[13-Dec-2018 10:24:16 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 5
+[13-Dec-2018 10:24:16 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 10
+[13-Dec-2018 10:28:44 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:28:44 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:28:47 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:28:47 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:28:50 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:28:50 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:28:59 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:28:59 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:30:08 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:30:08 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:30:15 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:30:15 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:30:24 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:30:24 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:31:38 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:31:38 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:32:48 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:32:48 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:32:56 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:32:56 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:33:31 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:33:31 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:35:33 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:35:33 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:35:33 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:35:36 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:35:36 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:35:36 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 35
+[13-Dec-2018 10:35:46 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:35:46 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:36:07 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:36:07 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 10:36:20 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:36:20 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:36:39 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:36:39 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:36:58 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:36:58 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:38:09 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:38:09 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:39:04 Etc/GMT] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 10:39:04 Etc/GMT] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[13-Dec-2018 10:39:24 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 42
+[13-Dec-2018 10:39:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 42
+[13-Dec-2018 10:41:25 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 42
+[13-Dec-2018 10:41:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 42
+[13-Dec-2018 10:45:10 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 42
+[13-Dec-2018 10:45:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 42
+[13-Dec-2018 10:45:20 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 42
+[13-Dec-2018 10:45:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 42
+[13-Dec-2018 10:48:25 Etc/GMT] PHP Notice:  Undefined variable: order_insert in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 39
+[13-Dec-2018 10:48:25 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 40
+[13-Dec-2018 10:48:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 40
+[13-Dec-2018 10:51:07 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 40
+[13-Dec-2018 10:51:07 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 40
+[13-Dec-2018 10:52:31 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 10:52:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 10:54:26 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 10:54:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 10:58:43 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 10:58:43 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 10:59:45 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 10:59:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 11:02:59 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:02:59 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:02:59 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:02:59 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 11:02:59 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 11:03:11 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:03:11 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:03:11 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:03:11 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 11:03:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 11:04:29 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:04:29 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:04:29 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:14 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:14 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:14 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:14 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 11:05:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 11:05:15 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:15 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:15 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:15 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 11:05:15 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 11:05:17 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:17 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:17 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:17 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 11:05:17 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 11:05:22 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:22 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:22 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:22 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 11:05:22 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 11:05:47 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:47 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:47 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:47 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 11:05:47 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 11:05:59 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:59 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:59 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:05:59 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 11:05:59 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 38
+[13-Dec-2018 11:07:24 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:07:24 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:07:24 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:07:32 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:07:32 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:07:32 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:07:41 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:07:41 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:07:41 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:09:47 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:09:47 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:09:47 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:10:16 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:10:16 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:10:16 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:10:16 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 11:10:16 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 24
+[13-Dec-2018 11:10:26 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:10:26 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:10:26 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:10:26 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 42
+[13-Dec-2018 11:10:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 42
+[13-Dec-2018 11:11:54 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:11:54 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:11:54 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:12:07 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:12:07 Etc/GMT] PHP Warning:  include(Config/Connection.php): failed to open stream: No such file or directory in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:12:07 Etc/GMT] PHP Warning:  include(): Failed opening 'Config/Connection.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 2
+[13-Dec-2018 11:12:07 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 42
+[13-Dec-2018 11:12:07 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 42
+[13-Dec-2018 11:12:07 Etc/GMT] PHP Notice:  Undefined variable: db in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 43
+[13-Dec-2018 11:12:07 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 43
+[13-Dec-2018 11:31:29 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/imageuploadbackup.php on line 4
+[13-Dec-2018 11:42:19 Etc/GMT] PHP Notice:  Undefined variable: result_ticket in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 70
+[13-Dec-2018 11:42:19 Etc/GMT] PHP Notice:  Undefined variable: a in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 76
+[13-Dec-2018 11:42:19 Etc/GMT] PHP Notice:  Undefined variable: user in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 78
+[13-Dec-2018 11:42:19 Etc/GMT] PHP Notice:  Undefined variable: user in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 81
+[13-Dec-2018 11:42:19 Etc/GMT] PHP Notice:  Undefined variable: user in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 84
+[13-Dec-2018 11:42:26 Etc/GMT] PHP Notice:  Undefined variable: result_ticket in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 70
+[13-Dec-2018 11:42:26 Etc/GMT] PHP Notice:  Undefined variable: a in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 76
+[13-Dec-2018 11:42:26 Etc/GMT] PHP Notice:  Undefined variable: user in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 78
+[13-Dec-2018 11:42:26 Etc/GMT] PHP Notice:  Undefined variable: user in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 81
+[13-Dec-2018 11:42:26 Etc/GMT] PHP Notice:  Undefined variable: user in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 84
+[13-Dec-2018 11:42:53 Etc/GMT] PHP Notice:  Undefined variable: user in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 74
+[13-Dec-2018 11:42:53 Etc/GMT] PHP Notice:  Undefined variable: user in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 78
+[13-Dec-2018 11:42:53 Etc/GMT] PHP Notice:  Undefined variable: user in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 81
+[13-Dec-2018 11:42:53 Etc/GMT] PHP Notice:  Undefined variable: user in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 84
+[13-Dec-2018 11:53:16 Etc/GMT] PHP Notice:  Undefined variable: row in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 93
+[13-Dec-2018 11:53:16 Etc/GMT] PHP Notice:  Undefined variable: row in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 94
+[13-Dec-2018 12:04:12 Etc/GMT] PHP Notice:  Undefined index: image$a in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 89
+[13-Dec-2018 12:21:10 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 12:21:10 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 12:21:10 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 12:23:48 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 12:23:48 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 12:23:48 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 12:23:56 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 12:24:24 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 13:30:28 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Dec-2018 13:54:02 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 213
+[13-Dec-2018 13:54:07 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 213
+[13-Dec-2018 13:58:18 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 13:58:18 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 14:01:04 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 14:01:04 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 14:01:18 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 14:01:18 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 14:07:28 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 14:07:28 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 14:08:06 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 14:08:06 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 14:08:08 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 14:08:08 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 14:08:31 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 14:08:31 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 14:09:08 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 14:09:08 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 14:20:56 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 14:20:56 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 14:21:04 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 14:21:11 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 14:21:11 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 14:21:11 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 14:21:27 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 14:21:45 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 14:22:27 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 14:22:27 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 14:22:27 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 14:23:15 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 14:23:15 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 14:23:15 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 14:23:20 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 14:23:20 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 14:23:32 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 14:24:01 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 14:24:25 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 14:24:57 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 5
+[13-Dec-2018 14:24:57 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 36
+[13-Dec-2018 14:25:33 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 14:26:21 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 14:27:38 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 14:27:38 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 14:27:46 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 14:28:42 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 3
+[13-Dec-2018 14:29:24 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 14:29:24 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 14:30:32 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 14:30:32 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 14:30:40 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 14:30:40 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 14:32:35 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 14:32:35 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 14:33:30 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 14:33:30 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 14:33:55 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 14:33:55 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 14:35:26 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 14:35:26 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 14:35:31 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 14:35:31 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 14:37:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 14:37:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 22:55:43 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 22:55:43 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 23:22:35 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 23:22:35 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 23:22:43 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 23:22:43 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 23:29:57 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 23:29:57 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 23:30:11 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 23:30:11 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 23:30:20 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 23:30:20 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 23:30:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 23:30:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 23:31:34 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 23:31:34 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[13-Dec-2018 23:31:42 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[13-Dec-2018 23:31:42 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[15-Dec-2018 06:27:52 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[15-Dec-2018 06:27:52 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[15-Dec-2018 06:28:08 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[15-Dec-2018 06:28:08 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[15-Dec-2018 06:28:40 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[15-Dec-2018 06:28:40 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[15-Dec-2018 06:29:00 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[15-Dec-2018 06:29:00 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[15-Dec-2018 06:29:35 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 6
+[15-Dec-2018 06:29:35 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 37
+[17-Dec-2018 01:54:41 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[17-Dec-2018 01:54:41 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[17-Dec-2018 01:54:53 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[17-Dec-2018 01:54:53 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[17-Dec-2018 01:55:00 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[17-Dec-2018 01:55:00 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[17-Dec-2018 01:55:06 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[17-Dec-2018 01:55:06 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[17-Dec-2018 06:11:54 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[17-Dec-2018 06:11:54 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[17-Dec-2018 06:12:24 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[17-Dec-2018 06:12:24 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[17-Dec-2018 06:12:55 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[17-Dec-2018 06:12:55 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[17-Dec-2018 06:14:19 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[17-Dec-2018 06:14:19 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[17-Dec-2018 06:14:43 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[17-Dec-2018 06:14:43 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[17-Dec-2018 15:19:34 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[17-Dec-2018 15:19:34 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[17-Dec-2018 15:19:34 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[17-Dec-2018 15:19:34 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[17-Dec-2018 15:19:41 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[17-Dec-2018 15:19:41 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[17-Dec-2018 15:19:47 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[17-Dec-2018 15:19:47 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[17-Dec-2018 15:19:53 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[17-Dec-2018 15:19:53 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[18-Dec-2018 07:09:10 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[20-Dec-2018 14:08:53 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[20-Dec-2018 14:30:14 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 4
+[20-Dec-2018 14:30:14 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[20-Dec-2018 14:30:14 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[20-Dec-2018 14:30:34 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[20-Dec-2018 14:30:34 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[20-Dec-2018 14:32:36 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[20-Dec-2018 14:32:36 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[21-Dec-2018 07:49:35 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[21-Dec-2018 07:50:26 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[21-Dec-2018 07:50:26 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[21-Dec-2018 11:59:22 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[21-Dec-2018 11:59:22 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[21-Dec-2018 12:00:10 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[21-Dec-2018 12:00:10 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[21-Dec-2018 12:01:59 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[21-Dec-2018 12:01:59 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[21-Dec-2018 12:13:23 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[21-Dec-2018 12:13:23 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[21-Dec-2018 12:18:20 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[21-Dec-2018 12:18:20 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[02-Jan-2019 12:55:28 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[02-Jan-2019 12:55:28 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[02-Jan-2019 12:55:28 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[02-Jan-2019 12:55:28 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[09-Jan-2019 10:38:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[09-Jan-2019 10:38:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[09-Jan-2019 10:38:54 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[09-Jan-2019 10:38:54 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[24-Jan-2019 11:33:48 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[24-Jan-2019 11:33:48 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[05-Feb-2019 06:34:48 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 06:34:48 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 06:34:48 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 06:34:48 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 06:36:36 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 06:36:36 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 06:36:36 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 06:36:36 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 06:52:35 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[05-Feb-2019 06:52:35 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[05-Feb-2019 06:52:43 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[05-Feb-2019 06:52:43 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[05-Feb-2019 10:26:32 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 10:26:32 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 10:26:32 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 10:26:32 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 10:41:47 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 10:41:47 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 10:41:47 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 10:41:47 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 16
+[05-Feb-2019 10:42:20 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[12-Feb-2019 08:42:35 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[12-Feb-2019 08:42:35 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[12-Feb-2019 10:50:56 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[12-Feb-2019 10:50:56 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[12-Feb-2019 10:59:37 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[12-Feb-2019 10:59:37 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[13-Feb-2019 08:30:36 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[13-Feb-2019 08:44:50 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[13-Feb-2019 08:44:50 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[20-Feb-2019 12:09:57 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[20-Feb-2019 12:09:57 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[20-Feb-2019 12:19:56 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[20-Feb-2019 12:19:56 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[20-Feb-2019 12:28:21 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[20-Feb-2019 12:28:21 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[20-Feb-2019 12:49:47 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[20-Feb-2019 12:49:47 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 10:21:35 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[22-Feb-2019 10:38:43 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 10:38:43 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 10:43:20 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 10:43:20 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 10:46:20 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 10:46:20 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 10:49:46 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 10:49:46 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 10:50:01 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 10:50:01 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 10:50:19 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 10:50:19 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 10:56:23 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 10:56:23 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:00:30 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:00:30 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:04:55 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:04:55 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:19:41 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:19:41 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:20:01 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:20:01 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:25:09 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:25:09 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:25:24 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:25:24 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:25:40 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:25:40 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:26:20 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:26:20 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:26:32 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:26:32 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:51:33 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:51:33 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:51:58 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:51:58 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:52:08 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:52:08 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:52:19 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:52:19 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:52:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:52:39 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 11:58:01 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 11:58:01 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 12:09:22 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function eixt() in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 9
+[22-Feb-2019 12:12:02 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[22-Feb-2019 12:12:31 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/OrlandoAdmin/Images/imageupload.php on line 4
+[22-Feb-2019 12:47:20 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 12:47:20 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 13:00:44 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 13:00:44 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 13:01:21 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 13:01:21 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 13:02:35 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 13:02:35 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 13:05:05 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 13:05:05 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 13:05:17 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 13:05:17 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 13:05:34 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 13:05:34 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 13:09:28 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 13:09:28 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 14:06:17 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 14:06:17 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 14:06:22 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 14:06:22 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[22-Feb-2019 14:06:35 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[22-Feb-2019 14:06:35 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[02-Mar-2019 15:44:09 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[02-Mar-2019 15:44:09 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[06-Mar-2019 14:37:38 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 14
+[06-Mar-2019 14:37:38 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/OrlandoAdmin/Images/Updateimage.php on line 18
+[07-Mar-2019 08:29:05 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[07-Mar-2019 08:29:05 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[07-Mar-2019 08:31:29 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[07-Mar-2019 08:31:29 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[07-Mar-2019 09:14:43 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[07-Mar-2019 09:14:43 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[07-Mar-2019 12:27:37 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[07-Mar-2019 12:27:37 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[07-Mar-2019 12:27:53 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[07-Mar-2019 12:27:53 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[07-Mar-2019 12:28:05 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[07-Mar-2019 12:28:05 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[07-Mar-2019 12:28:24 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[07-Mar-2019 12:28:24 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[07-Mar-2019 12:28:36 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[07-Mar-2019 12:28:36 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[01-Apr-2019 06:48:40 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[01-Apr-2019 06:48:40 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[01-Apr-2019 07:21:33 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[01-Apr-2019 07:21:33 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[01-Apr-2019 07:30:13 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[01-Apr-2019 07:30:13 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[01-Apr-2019 07:40:07 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[01-Apr-2019 07:40:07 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[01-Apr-2019 08:00:49 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[01-Apr-2019 08:00:49 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[01-Apr-2019 08:05:16 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[01-Apr-2019 08:05:16 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[01-Apr-2019 08:05:37 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[01-Apr-2019 08:05:37 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[01-Apr-2019 08:06:10 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[01-Apr-2019 08:06:10 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[01-Apr-2019 08:16:27 Etc/GMT] PHP Notice:  Undefined index: id in /home/dharmani/public_html/app/OrlandoAdmin/Images/imageupload.php on line 4
+[01-Apr-2019 08:17:30 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[01-Apr-2019 08:17:30 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[01-Apr-2019 08:20:22 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 14
+[01-Apr-2019 08:20:22 Etc/GMT] PHP Notice:  Undefined index: fileToUpload in /home/dharmani/public_html/app/OrlandoAdmin/Images/Updateimage.php on line 18
+[05-Aug-2019 13:57:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:9) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 12
+[05-Aug-2019 14:10:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:9) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 12
+[05-Aug-2019 14:10:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:9) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 12
+[05-Aug-2019 14:10:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:9) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 12
+[05-Aug-2019 14:10:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:9) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 12
+[28-Aug-2019 13:48:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:9) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 12
+[28-Aug-2019 14:20:17 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 8
+[28-Aug-2019 14:21:54 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 8
+[28-Aug-2019 14:22:07 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 9
+[28-Aug-2019 14:22:07 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 11
+[28-Aug-2019 14:22:18 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 9
+[28-Aug-2019 14:22:18 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 11
+[28-Aug-2019 14:23:19 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 9
+[28-Aug-2019 14:23:19 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 11
+[28-Aug-2019 14:23:22 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 9
+[28-Aug-2019 14:23:22 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 11
+[28-Aug-2019 14:23:31 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 9
+[28-Aug-2019 14:23:44 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 9
+[28-Aug-2019 14:25:19 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 9
+[28-Aug-2019 14:25:19 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in /home/jamminco/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 11
+[14-Oct-2020 16:38:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 7
+[14-Oct-2020 16:39:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 7
+[14-Oct-2020 16:39:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 7
+[14-Oct-2020 16:51:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 7
+[14-Oct-2020 16:51:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 7
+[14-Oct-2020 16:51:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 7
+[14-Oct-2020 16:51:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 7
+[14-Oct-2020 16:52:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 7
+[14-Oct-2020 16:52:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/Images/ImageDelete.php on line 7

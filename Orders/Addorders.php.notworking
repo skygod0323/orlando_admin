@@ -1,0 +1,657 @@
+<?php
+include('../Config/Connection.php');
+//login check
+session_start();
+      $login_check=$_SESSION['id'];
+       //var_dump($data1);
+    if ($login_check!='1') {
+       
+        header("location: ../Login/login.php");
+    }
+    
+     $id=$_GET['id'];
+  $sql="SELECT id,`first_name`,`Last_name` FROM customer where id='$id'";
+    $result=mysqli_query($db,$sql);
+    $user=mysqli_fetch_assoc($result);
+     $id   = $user['id'];
+         $first_name   = $user['first_name'];
+        $Last_name   = $user['Last_name'];
+        $name=   $first_name   .' '.   $Last_name;
+       
+    
+    
+//end
+                        // order parameters
+                     if(isset($_POST['orderadd']))
+                      {
+                          $customer_id=$_POST['idHidden'];
+                        
+                          $customer=$_POST['customer'];
+                          $date_of_vist1=$_POST['date_of_vist'];
+                           $date_of_vist = date("Y/m/d", strtotime($date_of_vist1));
+                          
+                           $aa12=$_POST['time'];
+                         /* $aa12= date("g:i A", strtotime($time1));*/
+                          $option=$_POST['option'];
+                          $price=$_POST['cost'];
+                          $ticket_type=$_POST['ticket_type'];
+                           $ticket_type33=(explode(" ", $ticket_type));
+                           $ticket_type2=array_pop( $ticket_type33);
+                         $ticket_type34= implode(" ",$ticket_type33);
+                         
+                          $adults=$_POST['adults'];
+                          $kids=$_POST['kids'];
+
+                          $discount=$_POST['discount'];
+                          $total=$_POST['total'];
+                          $timestamp = time();
+                          // end parameters
+                          $datetimeFormat = 'Y-m-d';
+                          $date = new \DateTime();
+                          $date->setTimestamp($timestamp);
+                          $create_date=$date->format($datetimeFormat);
+                          $sql="SELECT MAX(id) as last_id FROM `order`";
+                          $result=mysqli_query($db,$sql);
+                          $user=mysqli_fetch_assoc($result);
+                         $max=$user['last_id'];
+                         $user_id = 1000+$max+1;
+                         $bdt_user='UOR'.$user_id;
+                       /* $ticket_order= $adults.'ad/'.$kids.'ch/'.$option;*/ 
+                       $ticket_order= $adults.'ad/'.$kids.'ch/'.$ticket_type34;
+                       /* var_dump($ticket_order);die;*/
+                         $customer_update = "UPDATE ticket SET 
+                          isengaged=1
+                           WHERE id='$ticket_type'";
+                           mysqli_query($db,$customer_update);
+                         
+                        $order_insert="INSERT INTO `order`(`order_id`,`ticket_id`,`ticket_type`, `customer_id`,`customer`, `date_of_visit`,`time`,`option`, `price`,`no_of_days`, `adults`, `kids`,`discount`, `total`,`create_time`,`ticket_order`)  
+                        VALUES ('$bdt_user','','$ticket_type','$customer_id','$customer',' $date_of_vist','$aa12','$option','$price','','$adults','$kids','$discount','$total','$timestamp','$ticket_order')";
+                       
+                        $result = mysqli_query($db,$order_insert);
+                        $last_inserted_id = mysqli_insert_id($db);
+                         if($kids==0)
+                          {
+                  $guest_insert = "INSERT INTO guest (order_id,login_id,type,is_default )
+            VALUES ('$last_inserted_id','$bdt_user','kid' ,1)";
+            //var_dump($guest_insert);die;
+               $Guestresult = mysqli_query($db,$guest_insert);
+
+                          } 
+                          if($adults==0)
+                          {
+                          $guest_insert11 = "INSERT INTO guest (order_id,login_id,type,is_default)
+                       VALUES ('$last_inserted_id','$bdt_user','adult',1)";
+                      
+                      $Guestresult = mysqli_query($db,$guest_insert11);
+                          }
+                        //end query
+                       /*if($result ){*/
+                         /* echo "<script>alert('added succesfully');</script>";*/
+                       
+                      /*echo "<script>alert('Added succesfully');
+                      document.location.href='https://www.dharmani.com/OrlandoAdmin/Orders/Orderdetails.php?active=0';</script>";*/
+                      /*  }*/
+
+                        $last_inserted_id = mysqli_insert_id($db);
+                        //end query
+                      header( "Location: Orderdetails.php?active=0&sucess=0" );
+                        
+                      
+                       //header( "Location: Orderdetails.php" );
+                        }
+                        
+                        
+                       $sql = "SELECT * FROM customer";
+                        $result = mysqli_query($db, $sql);
+                        if (mysqli_num_rows($result) > 0) {
+                        
+                        while($row = mysqli_fetch_assoc($result)) {
+                        
+                        
+                        $objet = new stdClass;
+                        
+                        $objet->id=$row["id"];
+                        $objet->label=$row["first_name"].' '.$row["Last_name"];
+                        
+                        $Customer_name[]=$objet;
+                        
+                        /*$Customer_name[]=$row["first_name"].' '.$row["Last_name"].'_'.$row["id"];*/
+                        
+                        }
+                        $Customer_name= json_encode($Customer_name);
+                        //print_r($Customer_name);exit;
+                   }
+                        
+                        
+                        include('../includes/header.php');
+                        
+                       ?>
+
+<style>
+  
+  .my-form{width: 100%;
+    height: 38px;
+    border-radius: 5px;
+    border: 1px solid #33333338;}
+
+   .tt-query, / UPDATE: newer versions use tt-input instead of tt-query /
+.tt-hint {
+width: 100%;
+height: 30px;
+padding: 8px 12px;
+font-size: 24px;
+line-height: 30px;
+border: 2px solid #ccc;
+border-radius: 8px;
+outline: none;
+}
+
+.tt-query { / UPDATE: newer versions use tt-input instead of tt-query /
+box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+.tt-hint {
+color: #999;
+}
+
+.tt-menu { / UPDATE: newer versions use tt-menu instead of tt-dropdown-menu /
+width: 100%;
+margin-top: 12px;
+padding: 8px 0;
+background-color: #fff;
+border: 1px solid #ccc;
+border: 1px solid rgba(0, 0, 0, 0.2);
+border-radius: 8px;
+box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+.tt-suggestion {
+padding: 3px 20px;
+font-size: 18px;
+line-height: 24px;
+}
+
+.tt-suggestion.tt-is-under-cursor { / UPDATE: newer versions use .tt-suggestion.tt-cursor /
+color: #fff;
+background-color: #0097cf;
+
+}
+
+.tt-suggestion p {
+margin: 0;
+}
+
+
+.left-col{margin-top: 10px;
+            float: left !important;
+            width: 25% !important;
+        }
+        .right-col{margin-top: 10px;
+            float: left !important;
+            width: 75% !important;
+        }
+
+    @media only screen and (max-width: 780px) and (min-width: 750px)  {
+        
+       .left-col{margin-top: 10px;
+            float: left !important;
+            width: 52% !important;
+        }
+        .right-col{margin-top: 10px;
+            float: left !important;
+            width: 48% !important;
+        } 
+    }
+    @media only screen and (max-width: 1030px) and (min-width: 1020px)  {
+        
+      .left-col{margin-top: 10px;
+            float: left !important;
+            width: 52% !important;
+        }
+        .right-col{margin-top: 10px;
+            float: left !important;
+            width: 48% !important;
+        }   
+    }
+    
+     @media only screen and (max-width: 1290px) and (min-width: 1230px)  {
+    .left-col{margin-top: 10px;
+            float: left !important;
+            width: 28% !important;
+        }
+        .right-col{margin-top: 10px;
+            float: left !important;
+            width: 70% !important;
+        }
+    }
+     @media only screen and (max-width: 678px) and (min-width: 0px)  {
+         label {
+    font-size: 12px;
+    display: inline-block;
+    margin-bottom: .5rem;
+}
+         .small-row{
+             padding-left: 0px !important;
+             padding-right: 0px !important;
+         }
+         .col-small{
+            padding-left: 0px !important;
+             padding-right: 0px !important; 
+         }
+        .left-col{margin-top: 10px;
+            float: left !important;
+            width: 40% !important;
+        }
+        .right-col{margin-top: 10px;
+            float: left !important;
+            width: 60% !important;
+        } 
+    footer.sticky-footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: fixed !important;
+    right: 0;
+    bottom: 0;
+    width: calc(100% - 90px);
+    height: 60px;
+    background-color: #e9ecef;
+}
+.gj-timepicker-bootstrap [role=right-icon] button {
+    width: 38px;
+  height:38px;
+    border: 1px solid #ccc!important;
+    position: relative;
+}
+    }
+    
+    .top-col {
+    margin-bottom: 1rem !important;
+}
+  </style>
+      <div id="content-wrapper">
+    
+     <div class="container-fluid">
+    <div class="col-md-12">
+    <h3>Add Order</h3>
+     <hr>
+     </div> 
+   </div>
+    <?php
+    $sql = "SELECT * FROM ticket where isengaged=0";
+   $result = mysqli_query($db, $sql);
+  
+    
+   ?>
+   <?php
+    $parktype = "SELECT * FROM parktype";
+   $parkresult = mysqli_query($db,  $parktype);
+  
+    
+   ?>
+    <?php
+    $parktypesvalue = "SELECT * FROM tickettypes";
+   $parkresult1 = mysqli_query($db, $parktypesvalue);
+ 
+    
+   ?>
+      <div class="container-fluid" style="display:flex;">
+     <div class="col-md-6 ">
+       <form action="Addorders.php" autocomplete='off' autocomplete='off' method="post">
+           <div class="row small-row">
+           <div class="col-md-12 col-small" >
+           <div class="col-md-12 top-col">
+           <div class="left-col">    
+    <label style="display: block;" for="fname">Customer *</label></div>
+     
+       <div class="right-col">
+    <input type="text" class="typeahead form-control"  name="customer" id="costomer" aria-describedby="customer" placeholder="Customer *"  value='<?=$name ?>' readonly >
+<input type="hidden" name="idHidden" id="idhide" value='<?=$id ?>'></div>
+       
+     </div>
+               <div class="col-md-12 top-col">
+           <div class="left-col">    
+    <label  style="display: block;" for="fname">Date Of Visit *</label></div>
+      
+      
+   <!-- <input type="date"    class="form-control" required name="date_of_vist" id="data" aria-describedby="date_of_vist" value='<?php //echo date('Y-m-d'); ?>' placeholder="Date Of Visit" value="" >-->
+    <!--<input  class="form-control"  type="text" value='' name="date_of_vist" id="datepicker" placeholder="Date Of Visit">-->
+     <div class="right-col">
+     <input type="text" required name="date_of_vist" id="datepicker"  class="form-control" value='<?php echo date('m/d/Y'); ?>'></div>
+ 
+    </div>
+<div class="col-md-12 top-col">
+           
+       <div class="left-col">
+    <label  for="fname">Time *</label></div>
+       
+      
+ 
+ <div class="right-col">
+ <select   class="form-control" name="time">
+ 
+          <option  value="8:00 AM">8:00 AM</option>
+          <option  value="8:30 AM">8:30 AM</option>
+          <option  value="9:00 AM">9:00 AM</option>
+          <option  value="9:30 AM">9:30 AM</option>
+          <option  value="10:00 AM">10:00 AM</option>
+          <option  value="10:30 AM">10:30 AM</option>
+          <option  value="11:00 AM">11:00 AM</option>
+          <option  value="11:30 AM">11:30 AM</option>
+          <option  value="12:00 AM">12:00 AM</option>
+          <option  value="12:30 AM">12:30 AM</option>
+          <option  value="1:00 PM">1:00 PM</option>
+            
+    
+  </select>     
+           </div>
+  
+               </div> 
+               
+               <div class="col-md-12 top-col">
+          <div class="left-col">      
+    <label for="fname">Adults *</label></div>
+     
+        <div class="right-col">
+   <input type="text" class="form-control" onkeypress="return AllowNumbersOnly(event)" name="adults"  id="adults" aria-describedby="adults" onkeyup="total_value()"  placeholder="Adults *" value=""></div>
+  
+               
+               </div>
+           
+           </div>
+           
+           
+           
+           <div class="col-md-12 col-small">
+           <div class="col-md-12 top-col">
+             <div class="left-col">    
+    <label for="fname">Kids</label></div>
+     
+      <div class="right-col">
+    <input type="text" class="form-control" onkeypress="return AllowNumbersOnly(event)" name="kids"  id="random" aria-describedby="Kids" onkeyup="total_value()" placeholder="Kids">
+     <input type="hidden" class="form-control"  name="child_price" id="child_price"  aria-describedby="fname" readonly="true">
+     <input type="hidden" class="form-control" onkeyup="total_value()"  name="cost" id="cost" aria-describedby="cost" placeholder="Cost *" value="" ></div>
+  
+ </div>
+         <div class="col-md-12 top-col">
+              <div class="left-col"> 
+   <label for="fname">Ticket Type *</label></div>
+            
+           <div class="right-col">  
+      <select   class="my-form" id="changeTicket" name="ticket_type" onchange="ticket(this.value)">
+    <option value="0">Please Select Ticket Type..</option>
+         <?php
+       while($parkvalue1 = mysqli_fetch_assoc($parkresult1)) {
+        $ticket_type=$parkvalue1['ticket_name'];
+           /* $numberofdays =$parkvalue1['numberofdays'];*/
+            $adult_price =$parkvalue1['adult_price'];
+            $ticketToShow=   $ticket_type. ' $' .$adult_price;
+            /* $ticketToShow= $numberofdays.' Day'.$ticket_type.' $'.$adult_price;*/
+      /*  $ticketToShow1= $numberofdays.' Day'.$ticket_type;*/
+       ?>
+     <option value="<?=$ticketToShow?>"><?=$ticketToShow?></option>
+     <?php
+   }
+      
+     ?>   
+      </select></div>
+              </div> 
+             <div class="col-md-12 top-col">
+               <div class="left-col"> 
+    <label for="fname">Discount *</label></div>
+     
+       <div class="right-col">
+    <input type="text" class="form-control"  name="discount" id="discount" onkeyup="total_value()"  aria-describedby="total" value='0' placeholder="Discount *"  ></div>
+  
+             </div>
+                 
+               
+          <div class="col-md-12 top-col">
+        <div class="left-col"> 
+    <label for="fname">Total Orders *</label></div>
+       
+       <div class="right-col"> 
+    <input type="number" class="form-control" onkeypress="return AllowNumbersOnly(event)"  name="total" id="total" aria-describedby="total" value='' placeholder="Total Orders *"  readonly></div>
+  
+           </div> 
+           
+           </div>
+           
+          
+           
+    <div class="col-md-12 top-col">
+         <div class="left-col"> 
+    <label for="type"></label> </div>
+     <div class="right-col"> 
+   <select  hidden class="form-control" name="option">
+ 
+    <option  value="1 day ptp">1 day ptp</option>
+    <option  value="1 day base(us)">1 day base(us)</option>
+    <option  value="1 day base(ios)">1 day base(ios)</option>
+    
+  </select></div>  
+  </div>
+
+  <div class="col-md-12 text-center small-btn" >
+ 
+ <div class="form-group" >
+ <button type="submit"  name="orderadd"class="btn btn-primary" style="
+    margin-top: -51px;">Submit</button>
+           </div>
+           </div></div>
+</form>
+</div>
+   </div>
+
+        <!-- Sticky Footer -->
+      
+        <footer class="sticky-footer">
+          <div class="container my-auto">
+            <div class="copyright text-center my-auto">
+              <span>Copyright © Universal Orlando Resort 2018</span>
+            </div>
+          </div>
+        </footer>
+   
+      </div>
+      <!-- /.content-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+      <i class="fas fa-angle-up"></i>
+    </a>
+
+    <!-- Logout Modal-->
+    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+            <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">×</span>
+            </button>
+          </div>
+          <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+        
+      </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript-->
+    <!--<script src="../vendor/jquery/jquery.min.js"></script>-->
+  <!--  <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>-->
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <!-- Core plugin JavaScript-->
+   <!-- <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>-->
+
+    <!-- Custom scripts for all pages-->
+   <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-3-typeahead/4.0.2/bootstrap3-typeahead.min.js"></script>-->-->
+    
+
+
+   <!--   <script src="../js/sb-admin.min.js"></script>-->
+  <!--</script>-->
+
+<script>
+  $( function() {
+    $( "#datepicker" ).datepicker();
+  } );
+  </script>
+
+     <script>
+     
+     
+            
+   /*         var substringMatcher = function(strs) {
+            return function findMatches(q, cb) {
+            var matches, substringRegex;
+            
+            matches = [];
+            
+            substrRegex = new RegExp(q, 'i');
+            $.each(strs, function(i, str) {
+            if (substrRegex.test(str)) {
+            matches.push(str);
+            }
+            });
+            
+            cb(matches);
+            };
+            };
+            
+            
+            
+            $('.typeahead').typeahead({
+            
+            
+            source: function(query, process) {
+            //alert("me");
+            
+            objects = [];
+            map = {};
+            var data = <?=$Customer_name?> // get your JSON dynamically and load it into this variable
+            $.each(data, function(i, object) {
+            map[object.label] = object;
+            objects.push(object.label);
+            });
+            process(objects);
+            },
+            updater: function(item) {
+            $('hiddenInputElement').val(map[item].id);
+            $('#idhide').val(map[item].id);
+            console.log(map[item].id);
+            return item;
+            }
+            }).blur(validateSelection);
+            
+            function validateSelection() {
+            if(objects.indexOf($(this).val()) === -1) 
+            //alert('Error : element not in list!');
+            $('#costomer').val("");
+            };*/
+            
+           function ticket(id) {
+            var ticket_name=id;
+             var ticket = ticket_name.split(' ');
+            var ticket1 = ticket.pop();
+              var final_ticket2 = ticket.toString();
+             var final_ticket = final_ticket2.replace(/\,/g," ");
+         $.ajax({
+            type: 'GET',
+            url: '../Ajax/Getorder.php?id='+final_ticket,
+             async:true,
+            success: function (data) {
+            console.log(data);
+              if(data=="No")
+              {
+            
+            
+            $('#cost').val("");
+            //$('#numberofdays').val("");
+              }
+              else
+              {
+            
+            
+          let dataAll = JSON.parse(data);
+         console.log(dataAll.adult_price);
+         var adults = $("#adults").val();
+         var random = $("#random").val()
+         var discount = $("#discount").val();
+        var total = parseInt(dataAll.adult_price) * parseInt(adults) + parseInt(dataAll.child_price)* parseInt(random)-discount;
+$("#total").val(total);
+            
+            $('#cost').val(dataAll.adult_price);
+            $('#child_price').val(dataAll.child_price);
+             
+            }
+            }
+            })
+            }
+            </script>
+            <script>
+            function total_value()
+            {
+            var num1 = document.getElementById('adults').value;
+            //console.log(num1);
+            var num2 = document.getElementById('random').value;
+            
+            var num3 = document.getElementById('cost').value;
+            var child_price = document.getElementById('child_price').value;
+            var discount = document.getElementById('discount').value;
+           
+            if(num1 && num2 && num3)
+            {
+            //console.log(num2);
+            var data2 = parseInt(num1);
+            var data3=parseInt(num2);
+            var price = $("#cost").val();
+            var child_cost = $("#child_price").val();
+            
+            var totalPrice= data2*price + data3*child_cost-discount;
+            $("#total").val(totalPrice);
+            //console.log(data2);
+            }
+            else if(num2 && child_price)
+            {
+            var data2 = parseInt(num2);
+            var child_cost = $("#child_price").val();
+            
+            var totalPrice= data2*child_cost-discount;
+            
+           
+            $("#total").val(totalPrice);
+            }
+            else if(num1 && num3)
+            {
+            var data2 = parseInt(num1);
+            var price = $("#cost").val();
+            
+            var totalPrice= data2*price-discount;
+           
+            $("#total").val(totalPrice); 
+            
+            }
+            
+            
+            
+            
+            }
+            function AllowNumbersOnly(e) {
+            var code = (e.which) ? e.which : e.keyCode;
+            if (code > 31 && (code < 48 || code > 57)) {
+            e.preventDefault();
+            }
+            }
+            
+            </script>
+
+  </body>
+
+</html>

@@ -1,0 +1,15 @@
+[14-Oct-2020 16:39:12 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 10
+[14-Oct-2020 16:39:12 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 10
+[14-Oct-2020 16:39:12 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 35
+[14-Oct-2020 16:51:38 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 10
+[14-Oct-2020 16:51:38 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 10
+[14-Oct-2020 16:51:38 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 35
+[14-Oct-2020 16:51:38 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 10
+[14-Oct-2020 16:51:38 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 10
+[14-Oct-2020 16:51:38 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 35
+[14-Oct-2020 16:51:38 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 10
+[14-Oct-2020 16:51:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 10
+[14-Oct-2020 16:51:39 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 35
+[14-Oct-2020 16:51:39 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 10
+[14-Oct-2020 16:51:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 10
+[14-Oct-2020 16:51:39 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/includes/pagination.php on line 35

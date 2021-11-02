@@ -1,0 +1,192 @@
+[14-Oct-2020 16:39:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php on line 20
+[14-Oct-2020 16:39:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php on line 20
+[14-Oct-2020 16:39:19 America/Chicago] PHP Fatal error:  Interface 'chillerlan\QRCode\Output\QROutputInterface' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QROutputAbstract.php on line 21
+[14-Oct-2020 16:39:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php on line 20
+[14-Oct-2020 16:39:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php on line 22
+[14-Oct-2020 16:39:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php on line 20
+[14-Oct-2020 16:39:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php on line 23
+[14-Oct-2020 16:39:21 America/Chicago] PHP Fatal error:  Interface 'chillerlan\QRCode\Output\QROutputInterface' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QROutputAbstract.php on line 21
+[14-Oct-2020 16:39:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php on line 22
+[14-Oct-2020 16:39:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php on line 23
+[14-Oct-2020 16:39:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php on line 20
+[14-Oct-2020 16:39:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php on line 20
+[14-Oct-2020 16:39:24 America/Chicago] PHP Fatal error:  Interface 'chillerlan\QRCode\Output\QROutputInterface' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QROutputAbstract.php on line 21
+[14-Oct-2020 16:39:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php on line 22
+[14-Oct-2020 16:39:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php on line 23
+[14-Oct-2020 16:51:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php on line 23
+[14-Oct-2020 16:51:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php on line 23
+[14-Oct-2020 16:51:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php on line 23
+[14-Oct-2020 16:51:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php on line 23
+[14-Oct-2020 16:51:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php on line 23
+[14-Oct-2020 16:51:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php on line 20
+[14-Oct-2020 16:51:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php on line 20
+[14-Oct-2020 16:51:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php on line 20
+[14-Oct-2020 16:51:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php on line 20
+[14-Oct-2020 16:51:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php on line 20
+[14-Oct-2020 16:51:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php on line 20
+[14-Oct-2020 16:51:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php on line 20
+[14-Oct-2020 16:51:29 America/Chicago] PHP Fatal error:  Interface 'chillerlan\QRCode\Output\QROutputInterface' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QROutputAbstract.php on line 21
+[14-Oct-2020 16:51:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php on line 20
+[14-Oct-2020 16:51:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php on line 23
+[14-Oct-2020 16:51:30 America/Chicago] PHP Fatal error:  Interface 'chillerlan\QRCode\Output\QROutputInterface' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QROutputAbstract.php on line 21
+[14-Oct-2020 16:51:30 America/Chicago] PHP Fatal error:  Interface 'chillerlan\QRCode\Output\QROutputInterface' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QROutputAbstract.php on line 21
+[14-Oct-2020 16:51:30 America/Chicago] PHP Fatal error:  Interface 'chillerlan\QRCode\Output\QROutputInterface' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QROutputAbstract.php on line 21
+[14-Oct-2020 16:51:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImagick.php on line 23
+[14-Oct-2020 16:51:30 America/Chicago] PHP Fatal error:  Interface 'chillerlan\QRCode\Output\QROutputInterface' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QROutputAbstract.php on line 21
+[14-Oct-2020 16:51:30 America/Chicago] PHP Fatal error:  Interface 'chillerlan\QRCode\Output\QROutputInterface' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QROutputAbstract.php on line 21
+[14-Oct-2020 16:51:30 America/Chicago] PHP Fatal error:  Interface 'chillerlan\QRCode\Output\QROutputInterface' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QROutputAbstract.php on line 21
+[14-Oct-2020 16:51:30 America/Chicago] PHP Fatal error:  Interface 'chillerlan\QRCode\Output\QROutputInterface' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QROutputAbstract.php on line 21
+[14-Oct-2020 16:51:31 America/Chicago] PHP Fatal error:  Interface 'chillerlan\QRCode\Output\QROutputInterface' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QROutputAbstract.php on line 21
+[14-Oct-2020 16:51:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php on line 20
+[14-Oct-2020 16:51:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php on line 20
+[14-Oct-2020 16:51:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php on line 20
+[14-Oct-2020 16:51:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php on line 20
+[14-Oct-2020 16:51:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php on line 20
+[14-Oct-2020 16:51:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php on line 20
+[14-Oct-2020 16:51:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRMarkup.php on line 20
+[14-Oct-2020 16:51:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php on line 22
+[14-Oct-2020 16:51:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php on line 22
+[14-Oct-2020 16:51:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php on line 22
+[14-Oct-2020 16:52:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php on line 20
+[14-Oct-2020 16:52:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRString.php on line 20
+[14-Oct-2020 16:52:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php on line 22
+[14-Oct-2020 16:56:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php on line 22
+[14-Oct-2020 16:56:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php on line 22
+[14-Oct-2020 16:56:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php on line 22
+[14-Oct-2020 16:56:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php on line 22
+[14-Oct-2020 16:58:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'chillerlan\QRCode\Output\QROutputAbstract' not found in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/mylogin/discovercfl.com/app/OrlandoAdmin/QrCode/src/Output/QRImage.php on line 22
